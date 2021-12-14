@@ -20,4 +20,5 @@
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 
-/* tecnologia home */
+/* termos */
+@import "./termos/termos.css";
