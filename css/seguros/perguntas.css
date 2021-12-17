@@ -45,6 +45,10 @@
   transform: rotate(180deg);
 }
 
+.perguntas dt:hover::after dd {
+  display: none;
+}
+
 .perguntas dd {
   padding-left: 20px;
   padding-top: 16px;
@@ -60,3 +64,11 @@
     margin-bottom: 40px;
   }
 }
+
+/* .bbk {
+  display: none;
+}
+
+div:hover .bbk {
+  display: inline-block;
+} */
