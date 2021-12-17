@@ -23,7 +23,7 @@
 }
 
 .bicicleta-imagens img:first-child {
-  min-width: 100%;
+  min-width: 100%; /* para fazer a primeira imagem sempre ter o tamahno maximo e só as outras o menor(200px) */
 }
 
 .bicicleta-conteudo > p {
