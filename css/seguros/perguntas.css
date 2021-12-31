@@ -54,11 +54,11 @@
   display: none;
 }
 
-.perguntas dd.ativa {
+.js .perguntas dd.ativa {
   display: block;
 }
 
-.perguntas dd {
+.js .perguntas dd {
   padding-left: 20px;
   padding-top: 16px;
   max-width: 80ch;
